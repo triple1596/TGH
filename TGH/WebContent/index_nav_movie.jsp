@@ -16,7 +16,8 @@ body {
 	background: hotpink;
 	display: inline-block;
 	width: 100%;
-}
+} 
+
 
 .zeta-menu {
 	margin: 0;
