@@ -19,6 +19,7 @@ body {
 }
 
 .zeta-menu {
+	cursor:pointer;
 	margin: 0;
 	padding: 0;
 }
@@ -101,17 +102,17 @@ body {
 	<div class='zeta-menu-bar' id="nav">
 		<ul class="zeta-menu">
 			<li><a href="Building_change.jsp">영화관 페이지로</a></li>
-			<li><a href="index.jsp?param=large_category.jsp&set=Standard">스탠다드</a>
+			<li><a>스탠다드</a>
 				<ul>
 					<li><a href="index.jsp?param=category.jsp&set=Standard_Room">스탠다드룸</a></li>
 					<li><a href="index.jsp?param=category.jsp&set=Deluxe_Room">디럭스룸</a></li>
 				</ul></li>
-			<li><a href="index.jsp?param=large_category.jsp&set=Premier">프리미어</a>
+			<li><a>프리미어</a>
 				<ul>
 					<li><a href="index.jsp?param=category.jsp&set=Premier_Room">프리미어룸</a></li>
 					<li><a href="index.jsp?param=category.jsp&set=Premier_Terrace_Room">프리미어 테라스룸</a></li>
 				</ul></li>
-			<li><a href="index.jsp?param=large_category.jsp&set=Sweet">스위트</a>
+			<li><a>스위트</a>
 				<ul>
 					<li><a href="index.jsp?param=category.jsp&set=Premier_Suite_Room">프리미어 스위트룸</a></li>
 					<li><a href="index.jsp?param=category.jsp&set=Royal_Suite_Room">로열 스위트룸</a></li>
