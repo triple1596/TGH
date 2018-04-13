@@ -28,6 +28,7 @@ System.out.println("[ isLogin ] " + isLogin);
 				
 				ResultSet rs = stmt.executeQuery(sql);
 				String room_names = "";
+				String room_price = "";
 				while(rs.next()){
 					String src = rs.getString("room_name") + ".jpg"; 
 					room_names = rs.getString("room_name");
@@ -40,8 +41,9 @@ System.out.println("[ isLogin ] " + isLogin);
 					<h4 style="color: white;">Explanation [<%=rs.getString("room_exp") %>]</h4>
 					
 					<img src="image/<%=src %>" id="mainImage" alt="Image" style="width:1500px;height:500px;">
-					<form action="check_login" name="hidden_form">
+					<form action="system/check_login.jsp" name="hidden_form">
 						<input type="hidden" name="room_name" value="<%=room_names%>">
+						<input type="hidden" name="room_grade" value="<%=room_grade%>">
 					</form>
 					<%
 				}

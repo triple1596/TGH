@@ -3,9 +3,11 @@
 <% 
 	String log = (String)session.getAttribute("isLogin");
 	if(log != null){
-		
+		String sendtext = request.getParameter("room_name");
+		String sendgrade = request.getParameter("room_grade");
+		response.sendRedirect("../index.jsp?param=rental_room.jsp&room_name=" + sendtext + "&room_grade=" + sendgrade);
 	}else{
-		res    
+		response.sendRedirect("../Alter/rental_fail.html");
 	}
 
 %>

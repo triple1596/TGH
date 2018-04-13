@@ -1,38 +1,38 @@
-[The Greatest Hotel ¼­¿ïÁöÁ¡] ÃÑ 15Ãþ
+[The Greatest Hotel ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½] ï¿½ï¿½ 15ï¿½ï¿½
 
-½ºÅÄ´Ùµå
-	-½ºÅÄ´Ùµå: 		60°³		100,000¿ø		2,3Ãþ -Ãþ´ç 30°³
-	-µð·°½º: 		40°³		180,000¿ø		4,5Ãþ -Ãþ´ç 20°³
+ï¿½ï¿½ï¿½Ä´Ùµï¿½
+	-ï¿½ï¿½ï¿½Ä´Ùµï¿½: 		60ï¿½ï¿½		100,000ï¿½ï¿½		2,3ï¿½ï¿½ -ï¿½ï¿½ï¿½ï¿½ 30ï¿½ï¿½
+	-ï¿½ð·°½ï¿½: 		40ï¿½ï¿½		180,000ï¿½ï¿½		4,5ï¿½ï¿½ -ï¿½ï¿½ï¿½ï¿½ 20ï¿½ï¿½
 
-ÇÁ¸®¹Ì¾î
-	-ÇÁ¸®¹Ì¾î:		30°³		250,000¿ø		6,7,8Ãþ -Ãþ´ç 10°³
-	-ÇÁ¸®¹Ì¾î Å×¶ó½º: 	14°³		285,000¿ø		9,10Ãþ - Ãþ´ç 7°³
+ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½
+	-ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½:		30ï¿½ï¿½		250,000ï¿½ï¿½		6,7,8ï¿½ï¿½ -ï¿½ï¿½ï¿½ï¿½ 10ï¿½ï¿½
+	-ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ ï¿½×¶ï¿½: 	14ï¿½ï¿½		285,000ï¿½ï¿½		9,10ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ 7ï¿½ï¿½
 
-½ºÀ§Æ®
-	-ÇÁ¸®¹Ì¾î ½ºÀ§Æ®:	9°³		320,000¿ø		14,15,16Ãþ -Ãþ´ç 3°³
-	-·Î¿­ ½ºÀ§Æ®:		4°³		500,000¿ø		17,18Ãþ -Ãþ´ç 2°³
+ï¿½ï¿½ï¿½ï¿½Æ®
+	-ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®:	9ï¿½ï¿½		320,000ï¿½ï¿½		14,15,16ï¿½ï¿½ -ï¿½ï¿½ï¿½ï¿½ 3ï¿½ï¿½
+	-ï¿½Î¿ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®:		4ï¿½ï¿½		500,000ï¿½ï¿½		17,18ï¿½ï¿½ -ï¿½ï¿½ï¿½ï¿½ 2ï¿½ï¿½
 
-¿µÈ­°ü 11,12,13Ãþ[11:·Îºñ, 12,13:»ó¿µ°ü]
+ï¿½ï¿½È­ï¿½ï¿½ 11,12,13ï¿½ï¿½[11:ï¿½Îºï¿½, 12,13:ï¿½ó¿µ°ï¿½]
 
-(PK)¿µÈ­Á¾·ù, ¿µÈ­ »ó¿µ°ü, ½ÃÀÛ/Á¾·á ½Ã°¢, ÁÂ¼®¹èÄ¡µµ
-
-
+(PK)ï¿½ï¿½È­ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½È­ ï¿½ó¿µ°ï¿½, ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ ï¿½Ã°ï¿½, ï¿½Â¼ï¿½ï¿½ï¿½Ä¡ï¿½ï¿½
 
 
 
 
-¿µÈ­ °¹¼ö: ´ë·« 6
-¿µÈ­ »ó¿µ°ü: 4
 
 
-PK, ÀÌ¸§, °¨µ¶, Àå¸£, »ó¿µ½Ã°£, °¡°Ý
+ï¿½ï¿½È­ ï¿½ï¿½ï¿½ï¿½: ï¿½ë·« 6
+ï¿½ï¿½È­ ï¿½ó¿µ°ï¿½: 4
 
 
-»ó¿µ ¿µÈ­
-- °ïÁö¾Ï		(94ºÐ)		°¨µ¶: Á¤¹ü½Ä			Àå¸£: °øÆ÷, ¹Ì½ºÅÍ¸®
-- ÆÛ½ÃÇÈ ¸²: ¾÷¶óÀÌÂ¡	(111ºÐ)		°¨µ¶: ½ºÆ¼ºì S. µå³ªÀÌÆ®	Àå¸£: ¾×¼Ç, ¸ðÇè, SF
-- Áö±Ý ¸¸³ª·¯ °©´Ï´Ù	(131ºÐ)		°¨µ¶: ÀÌÀåÈÆ			Àå¸£: ¸á·Î/·Î¸Ç½º
-- ·¹µð ÇÃ·¹ÀÌ¾î ¿ø	(140ºÐ)		°¨µ¶: ½ºÆ¼ºì ½ºÇÊ¹ö±×		Àå¸£: ¾×¼Ç, ¸ðÇè, SF
+PK, ï¿½Ì¸ï¿½, ï¿½ï¿½ï¿½ï¿½, ï¿½å¸£, ï¿½ó¿µ½Ã°ï¿½, ï¿½ï¿½ï¿½ï¿½
+
+
+ï¿½ï¿½ ï¿½ï¿½È­
+- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½		(94ï¿½ï¿½)		ï¿½ï¿½ï¿½ï¿½: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½			ï¿½å¸£: ï¿½ï¿½ï¿½ï¿½, ï¿½Ì½ï¿½ï¿½Í¸ï¿½
+- ï¿½Û½ï¿½ï¿½ï¿½ ï¿½ï¿½: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¡	(111ï¿½ï¿½)		ï¿½ï¿½ï¿½ï¿½: ï¿½ï¿½Æ¼ï¿½ï¿½ S. ï¿½å³ªï¿½ï¿½Æ®	ï¿½å¸£: ï¿½×¼ï¿½, ï¿½ï¿½ï¿½ï¿½, SF
+- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï´ï¿½	(131ï¿½ï¿½)		ï¿½ï¿½ï¿½ï¿½: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½			ï¿½å¸£: ï¿½ï¿½ï¿½/ï¿½Î¸Ç½ï¿½
+- ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ ï¿½ï¿½	(140ï¿½ï¿½)		ï¿½ï¿½ï¿½ï¿½: ï¿½ï¿½Æ¼ï¿½ï¿½ ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½		ï¿½å¸£: ï¿½×¼ï¿½, ï¿½ï¿½ï¿½ï¿½, SF
 
 
 
@@ -56,6 +56,7 @@ CREATE SEQUENCE SEQ_ROOM INCREMENT BY 1 START WITH 1;
 CREATE SEQUENCE SEQ_MOVIE INCREMENT BY 1 START WITH 1;
 CREATE SEQUENCE SEQ_USER INCREMENT BY 1 START WITH 1;
 CREATE SEQUENCE SEQ_MOVIE_TIME INCREMENT BY 1 START WITH 1;
+CREATE SEQUENCE SEQ_RENTAL_ROOM INCREMENT BY 1 START WITH 1;
 
 
 
@@ -71,14 +72,14 @@ CREATE TABLE room_set
     room_exp       VARCHAR2(4000)      NOT NULL
 );
 
-INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Standard','Standard_Room','½ºÅÄ´Ùµå','½ºÅÄ´Ùµå',60,100000,'½ºÅÄ´Ùµå ·ëÀº ÀÌ¿ë°´µé¿¡°Ô Æí¾ÈÇÏ°í ¾È¶ôÇÑ ÈÞ½Ä °ø°£À» Á¦°øÇÕ´Ï´Ù.');
-INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Standard','Deluxe_Room','½ºÅÄ´Ùµå','µð·°½º',40,180000,'µð·°½º ·ëÀº ¿©À¯·Î¿î ÈÞ½Ä °ø°£ÀÌ µ¸º¸ÀÌ´Â ½ºÅÄ´Ùµå ·ëº¸´Ù ´õ °í±ÞÁø ÀÎÅ×¸®¾î ¹× ¼­ºñ½º¸¦ Á¦°øÇÕ´Ï´Ù.');
+INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Standard','Standard_Room','ï¿½ï¿½ï¿½Ä´Ùµï¿½','ï¿½ï¿½ï¿½Ä´Ùµï¿½',60,100000,'ï¿½ï¿½ï¿½Ä´Ùµï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¿ë°´ï¿½é¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½È¶ï¿½ï¿½ï¿½ ï¿½Þ½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½.');
+INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Standard','Deluxe_Room','ï¿½ï¿½ï¿½Ä´Ùµï¿½','ï¿½ð·°½ï¿½',40,180000,'ï¿½ð·°½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Î¿ï¿½ ï¿½Þ½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½ï¿½Ä´Ùµï¿½ ï¿½ëº¸ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½×¸ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ñ½º¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½.');
 
-INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Premier','Premier_Room','ÇÁ¸®¹Ì¾î','ÇÁ¸®¹Ì¾î',30,250000,'ÇÁ¸®¹Ì¾î ·ëÀº ÈÞ½ÄÀÌ ÇÊ¿äÇÑ ºñÁî´Ï½º °í°´À» À§ÇØ Æ¯º°È÷ ¼³°èµÈ °´½ÇÀÔ´Ï´Ù.');
-INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Premier','Premier_Terrace_Room','ÇÁ¸®¹Ì¾î','ÇÁ¸®¹Ì¾î Å×¶ó½º',14,285000,'ÇÁ¸®¹Ì¾î ·ë¿¡ Å×¶ó½º¸¦ ´õÇÑ °´½Ç·Î, Å×¶ó½º¿¡¼­ º¸ÀÌ´Â ¾ß°æÀÌ µ¸º¸ÀÔ´Ï´Ù.');
+INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Premier','Premier_Room','ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½','ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½',30,250000,'ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½Ê¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.');
+INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Premier','Premier_Terrace_Room','ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½','ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ ï¿½×¶ï¿½',14,285000,'ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ ï¿½ë¿¡ ï¿½×¶ó½º¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ç·ï¿½, ï¿½×¶ó½º¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ß°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.');
 
-INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Sweet','Premier_Suite_Room','½ºÀ§Æ®','ÇÁ¸®¹Ì¾î ½ºÀ§Æ®',9,320000,'ÇÁ¸®¹Ì¾î ½ºÀ§Æ® ·ëÀº ºñÁî´Ï½º ¹ÌÆÃ°ú ¿Ïº®ÇÑ ÈÞ½ÄÀ» µ¿½Ã¿¡ Áñ±æ ¼ö ÀÖ´Â °´½ÇÀÔ´Ï´Ù.');
-INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Sweet','Royal_Suite_Room','½ºÀ§Æ®','·Î¿­ ½ºÀ§Æ®',4,500000,'·Î¿­ ½ºÀ§Æ® ·ëÀº ¿äÆ® ÄÜ¼ÁÆ®·Î ±¸¼ºµÈ °í±Þ½º·¯¿î °ø°£À¸·Î, ¿©À¯·Î¿î ´ÙÀÌ´× ·ë, ¸ð´øÇÑ ¾÷¹« °ø°£ ¹× ¼¼°èÀûÀÎ ¼öÁØÀÇ Ä§½Ç·Î ±¸¼ºµÈ °´½ÇÀÔ´Ï´Ù.');
+INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Sweet','Premier_Suite_Room','ï¿½ï¿½ï¿½ï¿½Æ®','ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®',9,320000,'ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï½ï¿½ ï¿½ï¿½ï¿½Ã°ï¿½ ï¿½Ïºï¿½ï¿½ï¿½ ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ã¿ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.');
+INSERT INTO room_set(room_pk, room_grade, room_name, room_grade_ko, room_name_ko, room_amount, room_price, room_exp) VALUES(SEQ_ROOM.NEXTVAL,'Sweet','Royal_Suite_Room','ï¿½ï¿½ï¿½ï¿½Æ®','ï¿½Î¿ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®',4,500000,'ï¿½Î¿ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ® ï¿½Ü¼ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½Î¿ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä§ï¿½Ç·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.');
 
 
 CREATE TABLE movie(
@@ -90,10 +91,10 @@ CREATE TABLE movie(
 );
 
 
-INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'°ïÁö¾Ï',94,'Á¤¹ü½Ä','°øÆ÷, ¹Ì½ºÅÍ¸®');
-INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'ÆÛ½Ã¹Í ¸²: ¾÷¶óÀÌÂ¡',111,'½ºÆ¼ºì S.µå³ªÀÌÆ®','¾×¼Ç, ¸ðÇè, SF');
-INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'Áö±Ý ¸¸³ª·¯ °©´Ï´Ù',131,'ÀÌÀåÈÆ','¸á·Î/·Î¸Ç½º');
-INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'·¹µð ÇÃ·¹ÀÌ¾î ¿ø',140,'½ºÆ¼ºì ½ºÇÊ¹ö±×','¾×¼Ç, ¸ðÇè, SF');
+INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½',94,'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½','ï¿½ï¿½ï¿½ï¿½, ï¿½Ì½ï¿½ï¿½Í¸ï¿½');
+INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'ï¿½Û½Ã¹ï¿½ ï¿½ï¿½: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¡',111,'ï¿½ï¿½Æ¼ï¿½ï¿½ S.ï¿½å³ªï¿½ï¿½Æ®','ï¿½×¼ï¿½, ï¿½ï¿½ï¿½ï¿½, SF');
+INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï´ï¿½',131,'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½','ï¿½ï¿½ï¿½/ï¿½Î¸Ç½ï¿½');
+INSERT INTO movie(movie_pk, movie_name, movie_time, movie_auther, movie_type) VALUES(SEQ_MOVIE.NEXTVAL,'ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ ï¿½ï¿½',140,'ï¿½ï¿½Æ¼ï¿½ï¿½ ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½','ï¿½×¼ï¿½, ï¿½ï¿½ï¿½ï¿½, SF');
 
 
 CREATE TABLE userdate(
@@ -103,7 +104,7 @@ CREATE TABLE userdate(
  user_name VARCHAR2(20) NOT NULL,
  user_phone VARCHAR2(20) NOT NULL
 );
-INSERT INTO userdate(user_pk, user_id, user_pw, user_name, user_phone) VALUES(SEQ_USER.NEXTVAL,'admin','admin','°ü¸®ÀÚ','010-1234-5678');
+INSERT INTO userdate(user_pk, user_id, user_pw, user_name, user_phone) VALUES(SEQ_USER.NEXTVAL,'admin','admin','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½','010-1234-5678');
 
 
 CREATE TABLE movie_time(
@@ -112,6 +113,20 @@ CREATE TABLE movie_time(
  start_time DATE NOT NULL
 );
 INSERT INTO movie_time(mt_pk, movie_pk, start_time) VALUES(SEQ_MOVIE_TIME.NEXTVAL,2,TO_DATE('14:18','HH24:MI'));
+
+CREATE TABLE rental_room(
+ ren_pk NUMBER(10) NOT NULL Primary Key,
+ room_pk NUMBER(10) NOT NULL,
+ user_pk NUMBER(10) NOT NULL,
+ rental_date DATE NOT NULL,
+ return_date DATE NOT NULL
+);
+
+
+
+
+
+
 
 
 
