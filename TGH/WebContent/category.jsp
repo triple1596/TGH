@@ -12,13 +12,7 @@ System.out.println("[ isLogin ] " + isLogin);
 		<title>Insert title here</title>
 		<script type="text/javascript">
 			function rental_room(){
-				
-				if(<%=isLogin%> == null){
-					System.out.println("Null");
-				}else{
-					System.out.println("Islogin");
-				}
-				//document.hidden_form.submit();
+				document.hidden_form.submit();
 			
 			}
 		</script>
@@ -46,7 +40,7 @@ System.out.println("[ isLogin ] " + isLogin);
 					<h4 style="color: white;">Explanation [<%=rs.getString("room_exp") %>]</h4>
 					
 					<img src="image/<%=src %>" id="mainImage" alt="Image" style="width:1500px;height:500px;">
-					<form action="asd.jsp" name="hidden_form">
+					<form action="check_login" name="hidden_form">
 						<input type="hidden" name="room_name" value="<%=room_names%>">
 					</form>
 					<%
