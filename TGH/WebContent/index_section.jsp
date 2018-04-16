@@ -24,13 +24,13 @@
 		<%
 		
 		if(type == null){
-			System.out.println("[ Picture Session ] null");
+			//System.out.println("[ Picture Session ] null");
 			%>var imageArray=["image/pic1.jpg","image/pic2.jpg","image/pic3.jpg","image/pic4.jpg"];<%
 		}else if(type.equals("movie")){
-			System.out.println("[ Picture Session ] Movie");
+			//System.out.println("[ Picture Session ] Movie");
 			%>var imageArray=["image/pic1.jpg","image/pic2.jpg","image/pic3.jpg","image/pic4.jpg"];<%
 		}else{
-			System.out.println("[ Picture Session ] Hotel");
+			//System.out.println("[ Picture Session ] Hotel");
 			%>var imageArray=["image/movie1.jpg","image/movie2.jpg","image/movie3.jpg","image/movie4.jpg"];<%
 			
 		}%>

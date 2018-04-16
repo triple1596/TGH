@@ -35,8 +35,56 @@
 				}
 			}
 		</script>
+		<style>
+			th{
+				text-align: left;				
+				color: black;				
+				font-size: 20px;				
+				font-weight: lighter;
+			}			
+			td{
+				text-align: center;
+				padding-left: 50px;
+				padding-top: 20px;				
+			}
+			#input_btn{
+				background-color: black;
+				color: #FFFFFF;
+				border: none;
+				padding: 10px;
+				padding-left: 10px;
+				padding-right: 10px;
+				font-size: 18px;
+			}
+			#div_white{
+				background-color: #FFFFFF;
+				padding-bottom: 100px;
+			}
+			h1{
+				color: #FFFFFF;
+				padding-right: 1000px;
+				margin-left: 400px;
+			}
+			hr{
+				height: 4px;
+				background-color: #FFFFFF;
+			}
+			
+			#info_input{
+				border-left-width: 0px; 
+				border-right-width: 0px; 
+				border-top-width: 0px; 
+				border-bottom-width: 2px; 
+				border-color: black;
+				font-size: 20px;
+			}
+			#update_table{
+				padding-top: 100px;	
+			}
+		</style>
 	</head>
 	<body>
+		<h1>회원 정보 수정</h1><hr/>
 		<%
 			String user_id = (String) session.getAttribute("user_id");
 			Class.forName("oracle.jdbc.driver.OracleDriver");
@@ -47,37 +95,41 @@
 			ResultSet rs = stmt.executeQuery(sql);
 			while (rs.next()) {
 		%>
+		<div id="div_white">
+		<center>
 		<form action="system/user_update.jsp" method="post" name="userdate_form" onsubmit="return check_update()">
-			<table>
+			<table id="update_table">
 				<tr>
 					<th>이름</th>
-					<td><input type="text" name="name" autocomplete="off" value="<%=rs.getString("user_name")%>"></td>
+					<td><input type="text" name="name" id="info_input" autocomplete="off" value="<%=rs.getString("user_name")%>"></td>
 				</tr>
 				<tr>
 					<th>아이디</th>
-					<td><input type="text" name="id" maxlength="15"	autocomplete="off" value="<%=rs.getString("user_id")%>" readonly></td>
+					<td><input type="text" name="id" id="info_input" maxlength="15"	autocomplete="off" value="<%=rs.getString("user_id")%>" readonly></td>
 				</tr>
 				<tr>
 					<th>비밀번호</th>
-					<td><input type="password" name="pw"></td>
+					<td><input type="password" id="info_input" name="pw"></td>
 				</tr>
 				<tr>
 					<th>비밀번호 재확인</th>
-					<td><input type="password" name="repw"></td>
+					<td><input type="password" id="info_input" name="repw"></td>
 				</tr>
 				<tr>
 					<th>전화번호</th>
-					<td><input type="text" name="phone" autocomplete="off" value="<%=rs.getString("user_phone")%>"></td>
+					<td><input type="text" id="info_input" name="phone" autocomplete="off" value="<%=rs.getString("user_phone")%>"></td>
 				</tr>
 				<tr>
 					<td>    </td>
 				</tr>
 				<tr>
-					<td colspan="2"><input type="submit" value="Update"></td>
+					<td colspan="2"><input type="submit" value="회원 정보 수정" id="input_btn"></td>
 				</tr>
 			</table>
 			<input type="hidden" name="check_user" value="<%=rs.getString("user_pw")%>">
 		</form>
+		</center>
+		</div>
 			<%
 				}
 			%>

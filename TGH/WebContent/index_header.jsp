@@ -51,11 +51,13 @@
 	<div id="box-right">
 		<% 
 		String log = (String)session.getAttribute("isLogin");
+		String type = (String)session.getAttribute("type");
 		if(log != null){
 			%>
 				<a class="atag" href="system/logout.jsp">로그아웃</a>
 				<a class="btag">|</a>
-				<a class="atag" href="index.jsp?param=userdate.jsp">회원정보</a>
+				
+				<a class="atag" href="index.jsp?param=userstate.jsp">회원정보</a>
 			<%
 		}else{
 			%><a class="atag" href="index.jsp?param=login.jsp">로그인</a><%

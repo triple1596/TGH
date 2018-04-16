@@ -81,7 +81,7 @@
 							<td>   </td>
 						</tr>
 						<tr>
-							<td colspan="2"><input type="submit" value="Login" id="input_btn"></td>
+							<td colspan="2"><input type="submit" value="로그인" id="input_btn"></td>
 						</tr>
 					</table>
 				</form>

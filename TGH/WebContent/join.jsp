@@ -104,7 +104,7 @@
 							<td>   </td>
 						</tr>
 						<tr>
-							<td colspan="2"><input type="submit" value="Register" id="input_btn"></td>
+							<td colspan="2"><input type="submit" value="회원가입" id="input_btn"></td>
 						</tr>
 					</table>
 				</form>

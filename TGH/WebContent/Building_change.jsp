@@ -9,7 +9,7 @@
 		session.setAttribute("type", "movie");
 	}
 	String chercksession = (String)session.getAttribute("type");
-	System.out.println("[ Session ] " + chercksession);
+	//System.out.println("[ Session ] " + chercksession);
 	response.sendRedirect("index.jsp");
 
 

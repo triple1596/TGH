@@ -102,11 +102,7 @@ body {
 	<div class='zeta-menu-bar' id="nav">
 		<ul class="zeta-menu">
 			<li><a href="Building_change.jsp">호텔 페이지로</a></li>
-			<li><a href="#">1</a>
-				<ul>
-					<li><a href="#">1</a></li>
-					<li><a href="#">2</a></li>
-				</ul></li>
+			<li><a href="index.jsp?param=movie/movie_list.jsp">영화 목록</a>
 			<li><a href="#">2</a>
 				<ul>
 					<li><a href="#">1</a></li>

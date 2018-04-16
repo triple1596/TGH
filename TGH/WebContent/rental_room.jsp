@@ -44,21 +44,65 @@
 			    });
 			});
 		</script>
+		<style>
+			#div_white{
+				background-color: #FFFFFF;
+				height: 540px;
+			}
+			#price{
+				padding-left: 200px;
+			}
+			h1{
+				padding-left: 200px;
+			}
+			#little{
+				font-size: 15px;
+				font-weight: lighter;
+			}
+			h3{
+				padding-left: 200px;
+			}
+			hr{
+				height: 4px;
+				background-color: #FFFFFF;
+			}
+			#input_des{
+				margin-left: 200px;
+				border-color: black;
+				width: 300px;
+				height: 30px;
+			}
+			#input_btn{
+				background-color: black;
+				color: #FFFFFF;
+				border: none;
+				padding: 10px;
+				padding-left: 10px;
+				padding-right: 10px;
+				font-size: 18px;
+				margin-left: 200px;
+			}
+		</style>
 	</head>
 	<body>
 		<% 
 		String now_name = request.getParameter("room_name");
-		String now_grade = request.getParameter("room_name");
+		String now_price = request.getParameter("room_price");
 		
 		%>
 		<form action="system/check_date.jsp" method="post" name="loan_form">
-			<h3 style="color: white;">Selected Room Set [<%=now_name %>]</h3>
+			<h1 style="color: white;"><%=now_name %></h1><hr/>
 			
-			<h4 style="color: white;">Loan date</h4>
-			<input type="date" name="loan">
-			<h4 style="color: white;">Return date</h4>
-			<input type="date" name="returnd">
-			<input type="button" value="Test" onclick="test()">
+			<div id="div_white">
+				<h2 id="price">가격 [<%=now_price %>\<a id="little">/1박</a>]</h2><br/>
+				
+				<h3>체크인</h3>
+				<input id="input_des" type="date" name="loan">
+				<h3>체크아웃</h3>
+				<input id="input_des" type="date" name="returnd">
+				<input type="hidden" name="room_type" value="<%=now_name%>"><br/><br/><br/>
+				<input id="input_btn" type="button" value="예약하기" onclick="test()">
+			</div>
 		</form>
 		
 
